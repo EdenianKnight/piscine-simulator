@@ -1,0 +1,5 @@
+# .gitignore
+piscine-go/
+trace.txt
+.DS_Store
+*~
