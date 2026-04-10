@@ -1,3 +1,5 @@
+<!-- KEYWORDS: 01-Edu, Zone01, 42 Network, Piscine, Moulinette, Go-Piscine, Shell Quest, Local Tester -->
+
 # Piscine Simulator For 01-Edu (Local Edition) 🚀
 
 The Piscine Simulator is a local Command Line Interface (CLI) tool designed to help students of the **Learn to Earn / Zone01 / 42 Network** solidify their learning during and after the Piscine trials.
@@ -42,7 +44,7 @@ If you want to save your progress, clone your personal `piscine-go` repository i
 
 For the simulator to work, you must follow the folder naming rules provided by the Piscine instructions.
 
-```
+```sql
 piscine-simulator/
 ├── .gitignore                  # Prevents student work from being tracked by Git
 ├── README.md                   # Project documentation
