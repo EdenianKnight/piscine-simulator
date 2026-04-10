@@ -13,7 +13,7 @@ The Piscine Simulator is a local Command Line Interface (CLI) tool designed to h
 Clone this repository to your machine. This folder will serve as your **Master Workspace**.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/piscine-simulator.git
+git clone https://github.com/EdenianKnight/piscine-simulator.git
 cd piscine-simulator
 ```
 
