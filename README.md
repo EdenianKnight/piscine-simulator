@@ -1,4 +1,4 @@
-# 01-Edu Piscine Simulator (Local Edition) 🚀
+# Piscine Simulator For 01-Edu (Local Edition) 🚀
 
 The Piscine Simulator is a local Command Line Interface (CLI) tool designed to help students of the **Learn to Earn / Zone01 / 42 Network** solidify their learning during and after the Piscine trials.
 
